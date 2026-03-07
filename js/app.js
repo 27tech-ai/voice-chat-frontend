@@ -4,7 +4,7 @@
  */
 
 // إعدادات السيرفر
-const SERVER_URL = 'https://localhost:3000'; // غير هذا للإنتاج
+const SERVER_URL = 'http://localhost:3000'; // غير هذا للإنتاج
 
 // متغير عام للـ VoiceChat
 let voiceChat = null;
